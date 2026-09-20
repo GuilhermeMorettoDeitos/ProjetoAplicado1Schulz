@@ -1,2 +1,8 @@
-# ProjetoAplicado1Schulz
-Grupo 15
+# Projeto Aplicado 1 - Schulz
+Grupo 15 SENAI - Cibersegurança
+
+## Colaboradores:
+* GUILHERME MORETTO DEITOS
+* LUIS MARCELO BARBOSA
+* AUGUSTO GIEQUELIN NETO
+* EDINALDO GARCIA
